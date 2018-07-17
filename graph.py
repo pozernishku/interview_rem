@@ -1,3 +1,10 @@
+# Adjacency matrix (undirected graph) - current implementation
+
+# Possible implementations: Adjacency list
+# Directed, Undirected Graphs
+# Also with Weighted Edges
+# Vertex - point, Edge - line
+# Adjacency List example: A: C; B: A; C: B, D, E
 class Graph():
 	def __init__(self, size):
 		self.adj = []
