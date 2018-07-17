@@ -4,7 +4,7 @@ class Node:
 		self.right = None
 		self.data = data
 
-def search(root,data):
+def search(root,data): 
 	if root is None:
 		print("Not found") 
 	if root.data == data:
