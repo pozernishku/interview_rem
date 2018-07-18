@@ -13,6 +13,7 @@ def th(n,s,t,a):
 		th(n-1,s,a,t)
 		print("move",n,"from",s,"to",t)
 		th(n-1,a,t,s)
+        
 number=int(input()) #enter the number of discs
 source=1 #represents the starting rod number
 target=3 #represents the ending rod number
