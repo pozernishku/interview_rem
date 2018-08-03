@@ -1,6 +1,6 @@
 .vscode/settings.json
 .vscode/launch.json
 .vscode/
-.ipynb_checkpoints/
+.ipynb_checkpoints/*.ipynb
 .ipynb_checkpoints/Play5_Sorting_etc-checkpoint.ipynb
 .ipynb_checkpoints/TopTal-checkpoint.ipynb
