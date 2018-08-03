@@ -1,4 +1,4 @@
-.vscode/*.json
+.vscode/*
 .ipynb_checkpoints/*.ipynb
 __pycache__/*
 .DS_Store
