@@ -13,6 +13,9 @@ http://python-3.ru/page/sravnenie-metodov-__getattr__-i-__getattribute__-python
 Несмотря на то, что метод __getattribute__ перехватывает больше операций обращения к атрибутам, чем метод __getattr__, 
 тем не менее, на практике они оказываются лишь вариациями на одну тему - если атрибуты физически не сохраняются в памяти, 
 эти два метода дают один и тот же эффект.
+
+Here is the explanation on StackOverflow:
+https://stackoverflow.com/questions/3278077/difference-between-getattr-vs-getattribute
 '''
 
 class GetAttr:
