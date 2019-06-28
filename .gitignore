@@ -1,5 +1,5 @@
 .vscode/*
-.ipynb_checkpoints/*.ipynb
+.ipynb_checkpoints/*
 __pycache__/*
 .DS_Store
 creds.txt
